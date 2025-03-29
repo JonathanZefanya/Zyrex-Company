@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Zyrex - IT Solutions & Maintenance</h1>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Zyrex Logo" width="150">
+  <img src="https://github.com/JonathanZefanya/Zyrex-Company/blob/main/public/assets/images/logo.png" alt="Zyrex Logo" width="150">
 </p>
 
 <p align="center">
@@ -25,10 +25,10 @@
 <h2>🚀 Cara Menjalankan Project</h2>
 <ol>
   <li>🔻 Clone repository:
-    <pre><code>git clone https://github.com/username/zyrex.git</code></pre>
+    <pre><code>git clone https://github.com/JonathanZefanya/Zyrex-Company.git</code></pre>
   </li>
   <li>📂 Masuk ke direktori project:
-    <pre><code>cd zyrex</code></pre>
+    <pre><code>cd Zyrex-Company</code></pre>
   </li>
   <li>📦 Install dependency Composer:
     <pre><code>composer install</code></pre>
